@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+# Logs
+npm-debug.log*
+# Environment variables
+.env
+# Python artifacts
+__pycache__/
+*.pyc
+# Vosk models (if you ever download inside this folder)
+vosk-model/
